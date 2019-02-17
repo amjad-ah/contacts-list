@@ -1,5 +1,5 @@
 # What is it?
-> a stupid silly json file storage for contacts
+> a simple stupid json file storage for contacts
 
 # How to use?
 
