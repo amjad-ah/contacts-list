@@ -1,0 +1,23 @@
+{
+  "name": "contacts-list",
+  "version": "1.0.0",
+  "description": "a simple stupid json file storage for contacts",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^13.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "installation": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amjad-ah/contacts-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amjad-ah/contacts-list/issues"
+  },
+  "homepage": "https://github.com/amjad-ah/contacts-list#readme"
+}
