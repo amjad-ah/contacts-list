@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "installation": "echo \"Error: no test specified\" && exit 1"
+    "installation": "npm install"
   },
   "repository": {
     "type": "git",
